@@ -1,9 +1,9 @@
 Name: I Pranav Reddy  
-Comapny: CODETECH IT SOLUTIONS
-ID: CT6FSWD550
-Domain: Full Stack Web Development
-Duration: 10 June 2024 to 10 August 2024
-Mentor: NEELA SANTHOSH KUMAR
+Comapny: CODETECH IT SOLUTIONS  
+ID: CT12DS545  
+Domain: Full Stack Web Development  
+Duration: 10 June 2024 to 10 August 2024  
+Mentor: NEELA SANTHOSH KUMAR  
 
 OVERVIEW OF THE PROJECT
 
